@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Cylinders", "The Cylinders.csproj", "{2B794FB1-F244-15A5-EF26-A36C312BB4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Cylinders.Plugins", "The Cylinders.Plugins.csproj", "{BE422869-D275-2A6B-2334-B8F954FE1C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Cylinders.Editor.Plugins", "The Cylinders.Editor.Plugins.csproj", "{22B31E50-6B36-03B5-611A-C936317547D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B794FB1-F244-15A5-EF26-A36C312BB4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B794FB1-F244-15A5-EF26-A36C312BB4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B794FB1-F244-15A5-EF26-A36C312BB4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B794FB1-F244-15A5-EF26-A36C312BB4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE422869-D275-2A6B-2334-B8F954FE1C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE422869-D275-2A6B-2334-B8F954FE1C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE422869-D275-2A6B-2334-B8F954FE1C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE422869-D275-2A6B-2334-B8F954FE1C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B31E50-6B36-03B5-611A-C936317547D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B31E50-6B36-03B5-611A-C936317547D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B31E50-6B36-03B5-611A-C936317547D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B31E50-6B36-03B5-611A-C936317547D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
